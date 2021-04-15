@@ -1,1 +1,35 @@
-
+body { 
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.navbar-brand{
+	font-size: 1.5em;
+}
+h2{
+	font-weight: bold;
+}
+.p-2 {
+    padding: .8rem;
+}
+.p-5 {
+    padding: 3rem!important;
+}
+.Spaces{
+	background-color: #134b61;
+}
+.order{
+	background-color: #6ec3ff;
+	padding: 0px 15px 15px 15px;
+}
+.p-2 h2{
+	margin-top: 0;
+	margin-bottom: 20px;
+	color: white;
+	background-color: #5286a5;
+}
+a:hover{
+	background-color: #74dea3;
+	color: white;
+}
+.elemento{
+	font-weight: bold;
+}
